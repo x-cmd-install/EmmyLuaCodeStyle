@@ -4,7 +4,7 @@
 
 fast, powerful, and feature-rich Lua formatting and checking tool.
 
-![EmmyLuaCodeStyle](https://repo.x-cmd.io/EmmyLuaCodeStyle.svg)
+![EmmyLuaCodeStyle](https://repo.x-cmd.io/EmmyLuaCodeStyle.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,19 @@ x install EmmyLuaCodeStyle
 - **最新版本**: `1.6.0` (2025-12-25)
 - **最近提交**: 2026-07-13
 - **Release 含资产**: 8 个
-- **发布时间**: 2025-12-25T07:46:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [darwin-arm64.tar.gz](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/darwin-arm64.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
+| [darwin-arm64.zip](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/darwin-arm64.zip) | 1.8 MiB | `native/darwin/arm64` |
+| [darwin-x64.tar.gz](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/darwin-x64.tar.gz) | 878.7 KiB | `native/darwin/x64` |
+| [darwin-x64.zip](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/darwin-x64.zip) | 878.2 KiB | `native/darwin/x64` |
+| [linux-aarch64.tar.gz](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/linux-aarch64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
+| [linux-x64.tar.gz](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/linux-x64.tar.gz) | 2.2 MiB | `native/unknown` |
+| [linux-x64.zip](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/linux-x64.zip) | 2.2 MiB | `other` |
+| [win32-x64.zip](https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/win32-x64.zip) | 1.0 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +73,4 @@ EmmyLuaCodeStyle 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:06:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:23:04Z._
