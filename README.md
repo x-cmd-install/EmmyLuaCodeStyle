@@ -1,24 +1,64 @@
 # EmmyLuaCodeStyle
 
+[中文版本](./README.cn.md)
+
 fast, powerful, and feature-rich Lua formatting and checking tool.
 
-- **Upstream**: <https://github.com/CppCXY/EmmyLuaCodeStyle>
-- **Homepage**: <>
-- **Latest release**: `1.6.0` (2025-12-25)
-- **Last commit**: 2026-07-13
-- **License**: MIT
-- **Stars**: 171 · **Forks**: 39 · **Open issues**: 188 · **Contributors**: 16
+![EmmyLuaCodeStyle](https://repo.x-cmd.io/EmmyLuaCodeStyle.svg)
 
-## Installation
+## Install
 
 ```sh
 x install EmmyLuaCodeStyle
 ```
 
-See <https://x-cmd.com/install/EmmyLuaCodeStyle> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/CppCXY/EmmyLuaCodeStyle>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:50:22Z._
+- **Latest**: `1.6.0` (2025-12-25)
+- **Last commit**: 2026-07-13
+- **Assets in release**: 8
+- **Published**: 2025-12-25T07:46:35Z
+
+## Popularity
+
+- **Stars**: 172 · **Forks**: 39 · **Open issues**: 188 · **Contributors**: 16
+
+## Totals (cumulative)
+
+- **Releases**: 100 · **Merged PRs**: 31 · **Open PRs**: 3 · **Closed issues**: 154 · **Open issues**: 34 · **Commits**: 897
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 1 | 0 | 1 | 1 |
+| 360d | 2025-09-15 | 1 | 4 | 3 | 3 | 10 | 6 |
+
+## Code size
+
+Total: **443,851** lines of code across **1252** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| CppHeader | 148,265 | 59,144 | 29,054 | 717 |
+| Lua | 119,003 | 10,644 | 28,401 | 37 |
+| Cpp | 58,529 | 10,891 | 11,267 | 203 |
+| C | 35,917 | 8,222 | 6,566 | 86 |
+| CHeader | 26,747 | 15,432 | 8,229 | 209 |
+
+## Improve this data
+
+Install metadata for EmmyLuaCodeStyle lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `EmmyLuaCodeStyle` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/EmmyLuaCodeStyle.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:06:58Z._
