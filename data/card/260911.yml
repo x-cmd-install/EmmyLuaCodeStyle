@@ -7,7 +7,7 @@ about:
   latestVersion: "1.6.0"
   latestRelease: "1.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:45:08Z
+  collectedAt: 2026-09-11T20:17:33Z
 timeline:
   created: 2021-10-07
   lastCommit: 2026-07-13
@@ -98,7 +98,7 @@ total:
   commit: 897
 ---
 path: /home/runner/.x-repo/github.com/CppCXY/EmmyLuaCodeStyle
-collectedAt: 2026-09-11T04:45:10Z
+collectedAt: 2026-09-11T20:17:36Z
 loc:
   CppHeader:
     code: 148265
@@ -233,6 +233,6 @@ total:
 ---
 
 ---
-  - libcode_format_c.so
-  - CodeFormatServer
   - CodeFormat
+  - CodeFormatServer
+  - libcode_format_c.so
