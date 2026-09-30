@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1904056,
       "digest": "sha256:df53efead656ddd21f2cd8849889a70c34c0cf9808117d45b6bc176632d4d28b",
-      "download_count": 229,
+      "download_count": 233,
       "created_at": "2025-12-25T07:46:36Z",
       "updated_at": "2025-12-25T07:46:36Z",
       "browser_download_url": "https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1902322,
       "digest": "sha256:2faa687b79dc39ad4e3f8543755cddca758c091613917183ed940fb568e8668c",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-12-25T07:46:36Z",
       "updated_at": "2025-12-25T07:46:36Z",
       "browser_download_url": "https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/darwin-arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2351635,
       "digest": "sha256:ce712ffecb697c2019c0602665cc58276c2559c0a0f3d319b2ade4c539faecce",
-      "download_count": 5694,
+      "download_count": 5731,
       "created_at": "2025-12-25T07:46:36Z",
       "updated_at": "2025-12-25T07:46:36Z",
       "browser_download_url": "https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/linux-x64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2348695,
       "digest": "sha256:7518ec1702a9833f053b7b4710f20e6205b13204f06562eb226dce409da42298",
-      "download_count": 87,
+      "download_count": 98,
       "created_at": "2025-12-25T07:46:36Z",
       "updated_at": "2025-12-25T07:46:36Z",
       "browser_download_url": "https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/linux-x64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1068289,
       "digest": "sha256:9eba5778ce40ef4e32e2aa8829f3137577fa8000e09ac8bace737d42d59dc299",
-      "download_count": 200,
+      "download_count": 201,
       "created_at": "2025-12-25T07:46:36Z",
       "updated_at": "2025-12-25T07:46:36Z",
       "browser_download_url": "https://github.com/CppCXY/EmmyLuaCodeStyle/releases/download/1.6.0/win32-x64.zip"
