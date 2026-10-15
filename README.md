@@ -37,7 +37,7 @@ Total: **443,851** lines of code across **1252** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 173 · **Forks**: 39 · **Open issues**: 188 · **Contributors**: 16
+- **Stars**: 174 · **Forks**: 39 · **Open issues**: 188 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **443,851** lines of code across **1252** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-04-17 | 0 | 1 | 2 | 0 | 2 | 1 |
-| 360d | 2025-10-19 | 1 | 4 | 4 | 2 | 10 | 6 |
-| last720d | 2024-10-24 | 2 | 10 | 4 | 7 | 17 | 34 |
+| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last180d | 2026-04-18 | 0 | 1 | 2 | 0 | 2 | 1 |
+| 360d | 2025-10-20 | 1 | 4 | 4 | 2 | 10 | 6 |
+| last720d | 2024-10-25 | 2 | 10 | 4 | 7 | 17 | 34 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for EmmyLuaCodeStyle lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:55:00Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:45:31Z._
